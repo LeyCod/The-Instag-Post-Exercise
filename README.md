@@ -2,7 +2,7 @@
 
 ## To-Dos:
 
-- Create the HTML and CSS needed to replicate this exact same picture:
+- Create the HTML and CSS needed to replicate this picture:
 
 ![preview](https://raw.githubusercontent.com/breatheco-de/exercise-instagram-post/master/preview.png)
 
