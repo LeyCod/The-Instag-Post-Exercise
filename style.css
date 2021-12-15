@@ -1,0 +1,78 @@
+body {
+    background: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post {
+    background: white;
+    width: 500px;
+    height: 825px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.post-header {
+    width: 500px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 50px;
+    height: 75px;
+    margin: 0 0 0 10px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name {
+    width: 100px;
+    height: 75px;
+    margin: 0 0 0 10px;
+    display: flex;
+    align-items: center;
+}
+.menu {
+    width: 450px;
+    height: 75px;
+    margin: 0;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.post-img {
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+.post-footer {
+    width: 500px;
+    height: 245px;
+    margin: 0;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons {
+    width: 500px;
+    height: 70px;
+    margin: 0;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+}
+
+.icons, svg:nth-child(2){
+    margin: 0 10px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
